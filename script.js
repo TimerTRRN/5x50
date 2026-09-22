@@ -428,7 +428,7 @@ window.openUpdateLog = function() {
 function updateSidebarData() {
     try {
         let ps = JSON.parse(localStorage.getItem('ps_purchased'));
-        if(ps && ps.length > 0) document.getElementById('last-game-name').innerText = "CINE-PLAY` Library Ready";
+        if(ps && ps.length > 0) document.getElementById('last-game-name').innerText = "CINE-PLAY Library Ready";
         let sp = JSON.parse(localStorage.getItem('cinify_cache'));
         if(sp) {
             let k = Object.keys(sp);
