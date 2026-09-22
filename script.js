@@ -146,7 +146,7 @@ async function loadDynamicResources() {
 
 window.onbeforeunload = function(e) {
     if(sysConfig.redirectConfirm) {
-        let msg = "Are you sure you want to leave? This helps block GoGuardian redirects.";
+        let msg = "Are you sure you want to leave? This helps block Securly redirects.";
         e.returnValue = msg;
         return msg;
     }
@@ -317,7 +317,7 @@ window.unlockSystem = function() {
             if(bV.style.display !== 'none') bV.play().catch(function(e){});
         }
         if(!welcomeShown) {
-            showNotification("Welcome To Cine V2", "Checkout Settings for FAQ!");
+            showNotification("Welcome To TRRN V2.8", "Checkout Settings for FAQ!");
             welcomeShown = true;
         }
     }, 600);
