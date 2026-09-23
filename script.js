@@ -317,7 +317,7 @@ window.unlockSystem = function() {
             if(bV.style.display !== 'none') bV.play().catch(function(e){});
         }
         if(!welcomeShown) {
-            showNotification("Welcome To TRRN V2.8", "Checkout Settings for FAQ!");
+            showNotification("Welcome To TRRN V2.9", "Checkout Settings for FAQ!");
             welcomeShown = true;
         }
     }, 600);
