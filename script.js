@@ -16,7 +16,7 @@ var APPS = {
     'Geforce': {title: 'Completely Science', path: 'script/Apps/Geforce/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-23-ab4be119-4566-4980-a2a1-64177d6618de.png', pinned: false},
     'Fortnite': {title: 'Fortnite', path: 'script/Apps/Fortnite/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiXrQ-cvZeDyQNPIZCv_hsaUCAe5j_rXJ7Q&s', pinned: false},
     'RocketL': {title: 'DuckMath', path: 'script/Apps/RocketL/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-23-3b4286ef-c4ba-4e6a-911f-beef9f3eef0a.png', pinned: false},
-    'Xbox': {title: 'Xbox', path: 'script/Apps/Xbox/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknRQh-WRK4F75YB3EAlfrsqAk66Xjn45sBg&s', pinned: false},
+    'Xbox': {title: 'DELTARUNE 1-5', path: 'script/Apps/Xbox/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknRQh-WRK4F75YB3EAlfrsqAk66Xjn45sBg&s', pinned: false},
 };
 
 var savedPins = localStorage.getItem('c_pins_v2');
