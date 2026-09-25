@@ -56,7 +56,7 @@ var wallpaperRegistry = {
     "CozyFox": {id: "CozyFox", name: "Cozy Fox", url: "Videos/CozyFox.mp4", locked: false},
     "RainyCity": {id: "RainyCity", name: "Rainy City", url: "Videos/RainyCity.mp4", locked: false},
     "Gojo": {id: "Gojo", name: "Gojo", url: "Videos/Gojo.mp4", locked: false},
-    "BlackHole": {id: "BlackHole", name: "Black Hole", url: "Videos/BlackHole.mp4", locked: false},
+    "BlackHole": {id: "BlackHole", name: "Black Hole", url: "Videos/blackhole.mp4", locked: false},
     "Yuta": {id: "Yuta", name: "Yuta", url: "Videos/Yuta.mp4", locked: false},
     "Desktop": {id: "Desktop", name: "Desktop Lines", url: "Videos/Desktop.mp4", locked: false}
 };
@@ -317,7 +317,7 @@ window.unlockSystem = function() {
             if(bV.style.display !== 'none') bV.play().catch(function(e){});
         }
         if(!welcomeShown) {
-            showNotification("Welcome To TRRN V2.9", "Checkout Settings for FAQ!");
+            showNotification("Welcome To TRRN V3 BETA", "Checkout Settings for FAQ!");
             welcomeShown = true;
         }
     }, 600);
