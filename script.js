@@ -2,7 +2,7 @@ var _SYSTEM_PATHS = ["C:/Windows/System32/kernel32.dll", "/var/www/html/cine-os/
 var _devBuildVer = "3.0.1";
 
 var APPS = {
-    'cine': {title: 'Youtube', path: 'script/Apps/Cine/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-25-9634033b-19f1-487b-9aa2-49b5a661921a.png', pinned: true},
+    'cine': {title: 'Youtube', path: 'script/Apps/Cine/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-25-3c4a1e92-b357-47f4-80fc-7d0cc933285c.png', pinned: true},
     'term': {title: 'Spotify', path: 'script/Apps/Spotify/index.html', icon: 'https://cdn.pixabay.com/photo/2016/10/22/00/15/spotify-1759471_1280.jpg', pinned: true},
     'files': {title: 'CINE-PLAY', path: 'script/Apps/Ps5/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-OeL_be7RFaoHi3PswkuAR5XcMgBNRDynsg&s', pinned: true},
     'web': {title: 'TRRN-Web', path: 'script/Apps/Web/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeD89ZcX5W1FBtal7RerasT27q-OmZqnBixQ&s', pinned: true},
