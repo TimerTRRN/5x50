@@ -46,7 +46,7 @@ var wallpaperRegistry = {
     "Hunt": {id: "Hunt", name: "Hunt Showdown 2", url: "Videos/Hunt.mp4", locked: false},
     "Minecraft01": {id: "Minecraft01", name: "Minecraft 01", url: "Videos/cherryblossom.png", locked: false},
     "Minecraft02": {id: "Minecraft02", name: "Minecraft 02", url: "Videos/minecraftchill.png", locked: false},
-    "Minecraft03": {id: "Minecraft03", name: "Minecraft 03", url: "Videos/Minecraft03.mp4", locked: false},
+    "Space": {id: "Space", name: "Space", url: "Videos/space.png", locked: false},
     "Monkey": {id: "Monkey", name: "Monkey", url: "Videos/Monkey.mp4", locked: false},
     "Skello": {id: "Skello", name: "Skello", url: "Videos/Skello.MP4", locked: false},
     "SnowFox": {id: "SnowFox", name: "Snow Fox", url: "Videos/SnowFox.mp4", locked: false},
