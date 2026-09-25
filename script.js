@@ -41,7 +41,7 @@ var wallpaperRegistry = {
     "55TRRN": {id: "55TRRN", name: "55TRRN", url: "Videos/55Cine.PNG", locked: false},
     "Snowfall": {id: "Snowfall", name: "Snowfall", url: "Videos/Snowfall.mp4", locked: false},
     "Brother": {id: "Brother", name: "Brother", url: "Videos/Brother.mp4", locked: false},
-    "F-1": {id: "F-1", name: "F-1 Formula", url: "Videos/F1.mp4", locked: false},
+    "Empty": {id: "F-1", name: "Empty", url: "Videos/nothing.mp4", locked: false},
     "Gojo-Sukuna": {id: "Gojo-Sukuna", name: "Gojo vs Sukuna", url: "Videos/Gojo-Sukuna.mp4", locked: false},
     "Hunt": {id: "Hunt", name: "Hunt Showdown 2", url: "Videos/Hunt.mp4", locked: false},
     "Minecraft01": {id: "Minecraft01", name: "Minecraft 01", url: "Videos/Minecraft01.mp4", locked: false},
