@@ -13,7 +13,7 @@ var APPS = {
     'ciniai': {title: 'Suggestions', path: 'script/Apps/Cini/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLXhvns5Rrdf-XBNlWcPIRh0hlJfWnEtBWg&s', pinned: false},
     'VM': {title: 'Virtual-Machine', path: 'script/Apps/VM/index.html', icon: 'https://static1.squarespace.com/static/68e69c83884dc82cc035a923/69454e29c6db7516b2566fca/69454e32c6db7516b256749a/1766149682532/Virtualbox_logo.png?format=original', pinned: false},
     'crunchyroll': {title: 'EaglerCraft', path: 'script/Apps/Crunchy/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-24-d47cf00b-8916-43b4-b88b-7c00eb5b236a.png', pinned: false},
-    'Geforce': {title: 'Completely Science', path: 'script/Apps/Geforce/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-23-ab4be119-4566-4980-a2a1-64177d6618de.png', pinned: false},
+    'Geforce': {title: 'Completely Science', path: 'script/Apps/Geforce/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-25-72090586-effc-4ef2-b573-879d2c78afc7.png', pinned: false},
     'Fortnite': {title: 'Fortnite', path: 'script/Apps/Fortnite/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiXrQ-cvZeDyQNPIZCv_hsaUCAe5j_rXJ7Q&s', pinned: false},
     'RocketL': {title: 'DuckMath', path: 'script/Apps/RocketL/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-23-3b4286ef-c4ba-4e6a-911f-beef9f3eef0a.png', pinned: false},
     'Xbox': {title: 'DELTARUNE', path: 'script/Apps/Xbox/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-24-a0fae82e-6659-44d0-bcde-fc596af49347.png', pinned: false},
