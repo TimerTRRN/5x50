@@ -39,7 +39,7 @@ var wallpaperRegistry = {
     "33A56": {id: "hunt_trait", name: "Hunt Showdown", url: "Videos/33A56.mp4", locked: true},
     "45E33": {id: "45E33", name: "45E33", url: "Videos/45E33.mp4", locked: false},
     "55TRRN": {id: "55TRRN", name: "55TRRN", url: "Videos/55Cine.PNG", locked: false},
-    "Snowfall": {id: "Snowfall", name: "Snowfall", url: "Videos/snowfall.mp4", locked: false},
+    "snowfall": {id: "snowfall", name: "snowfall", url: "Videos/snowfall.mp4", locked: false},
     "Brother": {id: "Brother", name: "Brother", url: "Videos/Brother.mp4", locked: false},
     "F-1": {id: "F-1", name: "F-1 Formula", url: "Videos/F-1.mp4", locked: false},
     "Gojo-Sukuna": {id: "Gojo-Sukuna", name: "Gojo vs Sukuna", url: "Videos/Gojo-Sukuna.mp4", locked: false},
