@@ -9,7 +9,7 @@ var APPS = {
     'settings': {title: 'Settings', internal: true, icon: 'https://cdn.phototourl.com/member/2026-09-25-77b6be6d-96fd-4443-aa86-87e445ca7471.png', pinned: true},
     'discord': {title: 'Discord', path: 'script/Apps/Discord/index.html', icon: 'https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png', pinned: false},
     'roblox': {title: 'Roblox', path: 'script/Apps/Roblox/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KvNyFWMg_bjo_q_1IVLKFWbfCeonn2qDow&s', pinned: false},
-    'android': {title: 'Android', path: 'script/Apps/Android/index.html', icon: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.png', pinned: false},
+    'android': {title: 'Webfuse', path: 'script/Apps/Android/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-28-3bd04d5f-3c75-4652-bd0e-fd7fbadfdf96.png', pinned: false},
     'ciniai': {title: 'Suggestions', path: 'script/Apps/Cini/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLXhvns5Rrdf-XBNlWcPIRh0hlJfWnEtBWg&s', pinned: false},
     'VM': {title: 'Virtual-Machine', path: 'script/Apps/VM/index.html', icon: 'https://static1.squarespace.com/static/68e69c83884dc82cc035a923/69454e29c6db7516b2566fca/69454e32c6db7516b256749a/1766149682532/Virtualbox_logo.png?format=original', pinned: false},
     'crunchyroll': {title: 'EaglerCraft', path: 'script/Apps/Crunchy/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-24-d47cf00b-8916-43b4-b88b-7c00eb5b236a.png', pinned: false},
