@@ -14,7 +14,7 @@ var APPS = {
     'VM': {title: 'Virtual-Machine', path: 'script/Apps/VM/index.html', icon: 'https://static1.squarespace.com/static/68e69c83884dc82cc035a923/69454e29c6db7516b2566fca/69454e32c6db7516b256749a/1766149682532/Virtualbox_logo.png?format=original', pinned: false},
     'crunchyroll': {title: 'EaglerCraft', path: 'script/Apps/Crunchy/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-24-d47cf00b-8916-43b4-b88b-7c00eb5b236a.png', pinned: false},
     'Geforce': {title: 'Chess', path: 'script/Apps/Geforce/index.html', icon: 'https://cdn.phototourl.com/member/2026-10-06-9e9291aa-6f80-4556-9ed0-2aa3a4be19ca.png', pinned: false},
-    'fortnite': {title: 'Calculator', path: 'script/Apps/Fortnite/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-25-48394e25-00a6-4b12-950b-3b10b9b30792.png', pinned: false},
+    'fortnite': {title: 'Calculator', path: 'script/Apps/Fortnite/index.html', icon: 'https://cdn.phototourl.com/member/2026-10-06-2fcd7969-6a98-4a22-b42b-21f57cd21489.png', pinned: false},
     'RocketL': {title: 'DuckMath', path: 'script/Apps/RocketL/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-25-a3822107-3ab4-4f76-b894-0a6af7fd9516.png', pinned: false},
     'Xbox': {title: 'DELTARUNE', path: 'script/Apps/Xbox/index.html', icon: 'https://cdn.phototourl.com/member/2026-09-24-a0fae82e-6659-44d0-bcde-fc596af49347.png', pinned: false},
 };
