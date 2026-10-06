@@ -84,7 +84,7 @@ var cloaks = {
     google: {title: "Google", icon: "https://www.google.com/favicon.ico"},
     drive: {title: "My Drive - Google Drive", icon: "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"},
     canvas: {title: "Dashboard", icon: "https://du11hjcvx0uqb.cloudfront.net/br/dist/images/favicon-e10d657a73.ico"},
-    classroom: {title: "Classes", icon: "https://ssl.gstatic.com/classroom/favicon.png"}
+    classroom: {title: "Home - Clasroom", icon: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-classroom-icon.png"}
 };
 
 window.updateCloak = function(key) {
